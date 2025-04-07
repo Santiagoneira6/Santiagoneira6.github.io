@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /
 title: "Santiago Neira"
 author_profile: true
 redirect_from: 
