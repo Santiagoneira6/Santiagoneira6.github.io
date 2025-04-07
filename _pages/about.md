@@ -1,6 +1,7 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+layeout: page
+permalink: /about/
+title: "Santiago Neira"
 author_profile: true
 redirect_from: 
   - /about/
