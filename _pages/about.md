@@ -1,6 +1,5 @@
 ---
-layeout: page
-permalink: /about/
+permalink: /about
 title: "Santiago Neira"
 author_profile: true
 redirect_from: 
